@@ -1,0 +1,9 @@
+bcdamenu
+hdf5plugin
+http://ftp.esrf.fr/pub/scisoft/PyNX/pynx-2018.2.0.tar.bz2
+parsl
+peakutils
+punx
+pyepics
+pyimm
+xrayutilities
