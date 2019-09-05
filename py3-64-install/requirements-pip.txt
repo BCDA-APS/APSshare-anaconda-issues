@@ -1,5 +1,6 @@
 bcdamenu
 hdf5plugin
+https://raw.githubusercontent.com/EPICS-synApps/utils/master/mdaPythonUtils/mdalib-2013.post2-py2.py3-none-any.whl
 http://ftp.esrf.fr/pub/scisoft/PyNX/pynx-2018.2.0.tar.bz2
 parsl
 peakutils
