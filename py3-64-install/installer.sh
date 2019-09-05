@@ -1,6 +1,7 @@
 #!/bin/bash
 
 CHANNELS=""
+CHANNELS="${CHANNELS}  -c defaults"
 CHANNELS="${CHANNELS}  -c conda-forge"
 CHANNELS="${CHANNELS}  -c aps-anl-tag"
 CHANNELS="${CHANNELS}  -c apsu"
